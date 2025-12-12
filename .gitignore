@@ -3,3 +3,4 @@ plan_versions
 venv
 .venv
 dist
+.DS_Store
