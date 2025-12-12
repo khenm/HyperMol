@@ -1,0 +1,5 @@
+node_modules
+plan_versions
+venv
+.venv
+dist
