@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "antd": "^6.1.0",
@@ -35,11 +37,5 @@
   "overrides": {
     "vite": "npm:rolldown-vite@7.2.5"
   },
-  "homepage": "https://khenm.github.io/HyperMol",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  }
+  "homepage": "https://khenm.github.io/HyperMol"
 }
