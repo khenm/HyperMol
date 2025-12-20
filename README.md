@@ -76,7 +76,7 @@ To run HyperMol locally on your machine for development:
 
 * **Visualization Engine:** [Mol* (Molstar)](https://molstar.org/) - Used for core rendering, parsing, and data management.
 * **Language:** [TypeScript](https://www.typescriptlang.org/)
-* **UI Framework:** React / Vue *(Update based on your actual framework)*
+* **UI Framework:** React / Vue
 * **Build Tool:** Vite
 
 ## 👏 Acknowledgements
