@@ -1,6 +1,6 @@
 # HyperMol 🧬
 
-![HyperMol Banner](assets/banner.jpg)
+![HyperMol Banner](assets/banner.png)
 
 <div align="center">
 
