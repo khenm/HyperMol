@@ -56,22 +56,18 @@ To run HyperMol locally on your machine for development:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/khenm/HyperMol.git](https://github.com/khenm/HyperMol.git)
+    git clone https://github.com/khenm/HyperMol.git
     cd HyperMol
     ```
 
 2.  **Install dependencies**
     ```bash
     npm install
-    # or
-    yarn install
     ```
 
 3.  **Run the development server**
     ```bash
     npm run dev
-    # or
-    yarn dev
     ```
 
 4.  Open your browser to `http://localhost:5173` (or the port shown in your terminal).
