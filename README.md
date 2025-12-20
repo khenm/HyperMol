@@ -1,7 +1,5 @@
 # HyperMol 🧬
 
-![HyperMol Banner](assets/banner.png)
-
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/demo-live-green?style=for-the-badge&logo=github)](https://khenm.github.io/HyperMol/)
@@ -11,6 +9,8 @@
 **A high-performance, WebGL2-accelerated molecular viewer for the web.**
 
 </div>
+
+![HyperMol Banner](assets/banner.png)
 
 ## 📖 About
 
